@@ -2,14 +2,16 @@
 
 Objective:
 To learn how to initialize and use Git in a local directory and perform basic operations like creating files, folders, and committing changes.
-Requirements:
+
+# Requirements:
 Git Bash installed
 Basic command line knowledge
-Procedure:
+# Procedure:
 Create a New Folder:
 Create a folder in your system.
 Open the folder.
 Right-click inside and select Git Bash Here.
+
 View and Create Files/Folders:
 To view files:
 ```bash 
@@ -50,7 +52,8 @@ Commit Changes:
 git commit -m "message"
 
 ```
-Result:
+# Result:
 Git repository was successfully initialized in the local folder, and files were created, staged, and committed.
-Conclusion:
+
+# Conclusion:
 This experiment helps in understanding the basic workflow of Git, including file creation, staging, and committing changes in a local repository.
